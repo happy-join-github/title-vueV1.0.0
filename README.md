@@ -63,7 +63,7 @@ npm run lint
 
 ## 项目贡献者
 
-![peopleone](C:\Users\Administrator\Desktop\title-vue V1.0.0\contributor.png)
+![peopleone](https://github.com/happy-join-github/title-vueV1.0.0/blob/main/contributor.png)
 
 > 2024/08/28乘法口诀开发完毕
 >
